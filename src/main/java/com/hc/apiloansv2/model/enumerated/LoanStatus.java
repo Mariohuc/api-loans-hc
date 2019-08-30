@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package com.hc.apiloansv2.model.enumerated;
-
+//Esta es mi modificacion en la rama TEST
 /**
  *
  * @author mario
